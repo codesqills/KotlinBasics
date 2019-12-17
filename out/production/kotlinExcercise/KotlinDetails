@@ -1,0 +1,24 @@
+About Kotlin
+    It is a
+    - Statically typed Language , general purpose language
+    - Developed by Jetbrains
+    - Google announce Kotlin to be the official language for Android Development.
+
+Features.
+1. Statically Typed
+   - means the type of the variable or expression must be know at compile time.
+2. Data Class
+   - In kotlin it autogenerates the boilerplate code like getter/setter,toString etc
+3. Concise
+   - It reduces the extra code.
+4. Safe
+   - Null check
+   - Avoid null pointer exception.
+   Example - finding length of null string
+           - assigning null to a string or int we get compile error
+5. Interoperable with Java
+   - access java code from kotlin and vice verse
+6. Functional and Object oriented capabilities -
+   - Higher order functions, lambda function etc
+7. Smart cast
+   -

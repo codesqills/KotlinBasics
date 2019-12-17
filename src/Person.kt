@@ -1,0 +1,1 @@
+data class Person(var fname: String, var lname: String)

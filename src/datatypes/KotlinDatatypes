@@ -1,0 +1,12 @@
+Data types
+ - Int
+ - float
+ - char
+ - boolean
+
+
+ - find the data type
+   variable.javaClass.name
+   variable::class.java
+ - toInt
+ - toString for conversion

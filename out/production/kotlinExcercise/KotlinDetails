@@ -21,4 +21,12 @@ Features.
 6. Functional and Object oriented capabilities -
    - Higher order functions, lambda function etc
 7. Smart cast
-   -
+   - It gives you a compiliation error if safety check or not performed
+     on immutable values
+8. Fast compilation time
+9. Tool - friendly.
+
+
+I can develop Android Apps.
+- Kotlin can be complied to Javascript and make it available for frontend.
+- we development and server side.

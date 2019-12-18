@@ -1,0 +1,7 @@
+two types of variables
+  -Immutable
+  - mutables
+
+  val are immutable one defined cannot be changed
+  var are mutable
+  val are not constant 

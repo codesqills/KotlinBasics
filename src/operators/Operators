@@ -1,0 +1,11 @@
+operators
+Addition - a.plus(b)
+sub- a.minus(b)
+multi - a.times(b)
+divide- a.div(b)
+reminder - a.rem(b)
+
+a<b a.compareTo(b)<0
+
+a.inc() -- increment
+a.dec() -- decrement
